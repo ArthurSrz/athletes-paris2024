@@ -12,6 +12,9 @@ Ces scripts et codes ont été produits pour constituer un jeu de données brut 
 
 2. Les notebooks (kernel Python) qui vont permettre de nettoyer les données brutes. Chaque notebook s'occupe d'un certain nombre d'étapes de traitement, chaque étape venant ajouter une dimension/variable d'intérêt au jeu de données. **En sortie : un jeu de données brut et propre**
 
+3. Le jeux de données en sortie du scraper et en sortie des notebooks :
+
+   
 ## Variables du jeu de données 
 
 * nom : nom de l'athlète
