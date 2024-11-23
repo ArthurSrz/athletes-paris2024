@@ -10,7 +10,7 @@ Ces scripts et codes ont été produits pour constituer un jeu de données brut 
 1. Le script pour [scraper](https://fr.wikipedia.org/wiki/Web_scraping) la [page du site officiel](https://olympics.com/fr/paris-2024/athletes) du CIO sur les athlètes ayant participé aux JO de Paris 2024. Ce script doit être copié-collé dans [webscraper.io]() (outil no-code, qui s'installe comme une extension sur votre navigateur).
 **En sortie : un jeu de données brut**
 
-2. Les notebooks (dans le dossier `notebook`) qui vont permettre de nettoyer les données brutes. Chaque notebook s'occupe d'un certain nombre d'étapes de traitement, chaque étape venant ajouter une dimension/variable d'intérêt au jeu de données. **En sortie : un jeu de données brut et propre**
+2. Les notebooks (dans le dossier `notebooks`) qui vont permettre de nettoyer les données brutes. Chaque notebook s'occupe d'un certain nombre d'étapes de traitement, chaque étape venant ajouter une dimension/variable d'intérêt au jeu de données. **En sortie : un jeu de données brut et propre**
 
 3. Le jeux de données (dans le dossier `data`):
 * Brut: `2.0_complete_olympics_athlete.csv`
